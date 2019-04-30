@@ -5,7 +5,7 @@ galaxy_info:
   author: unxnn
   role_name: postfix
   description: Postfix for RedHat/CentOS or Debian/Ubuntu.
-  license: "license (BSD, MIT)"
+  license: "license (MIT)"
   min_ansible_version: 2.0
   platforms:
     - name: EL
