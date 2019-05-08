@@ -1,6 +1,6 @@
 # Ansible Role: Postfix
 
-[![Build Status](https://travis-ci.org/unxnn/ansible-postfix.svg?branch=master)](https://travis-ci.org/unxnn/ansible-postfix)
+[![Build Status](https://travis-ci.org/unxnn/ansible-role-postfix.svg?branch=master)](https://travis-ci.org/unxnn/ansible-role-postfix)
 
 Installs postfix on RedHat/CentOS or Debian/Ubuntu.
 
